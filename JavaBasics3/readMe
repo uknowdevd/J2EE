@@ -1,0 +1,11 @@
+Singleton, Prototype
+
+Singleton pattern restricts the instantiation of a class and ensures that only one instance of the class exists in the java virtual machine.
+The singleton class must provide a global access point to get the instance of the class.
+Singleton pattern is used for logging, drivers objects, caching and thread pool.
+
+Java Design Patterns  - https://www.tutorialspoint.com/design_pattern/index.htm
+
+
+Enum - 
+Enums - An enum type is a special data type that enables for a variable to be a set of predefined constants. The variable must be equal to one of the values that have been predefined for it. Common examples include compass directions

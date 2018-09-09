@@ -1,0 +1,24 @@
+To Run this project - do Run Configurations - Maven - clean compile install
+
+Servlet tutorial - https://docs.oracle.com/javaee/6/tutorial/doc/bnafd.html
+https://www.tutorialspoint.com/servlets/index.htm
+
+JSP tutorial - https://docs.oracle.com/javaee/5/tutorial/doc/bnagx.html
+
+Maven Tutorial - https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+
+
+Log4j2 tutorial - https://www.journaldev.com/7128/log4j2-example-tutorial-configuration-levels-appenders
+
+
+Filter tutotial - https://www.journaldev.com/1933/java-servlet-filter-example-tutorial
+
+JDBC Tuutotial
+
+https://www.tutorialspoint.com/jdbc/jdbc-introduction.htm
+
+MySql JDBC example
+
+http://www.vogella.com/tutorials/MySQLJava/article.html
+
+

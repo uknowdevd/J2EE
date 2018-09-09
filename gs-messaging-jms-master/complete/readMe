@@ -1,0 +1,6 @@
+This application is run on Spring Boot
+
+The main application class is Application.java, look into the main method which sends the message and the receiver is present in
+Receiver.java
+
+To run this project - in Run Configurations - give this command - spring-boot:run

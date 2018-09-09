@@ -1,0 +1,36 @@
+Examples of Recursion, for loop, Collections, exception handling, serialization
+
+Links to few concepts
+
+Collections - http://www.vogella.com/tutorials/JavaCollections/article.html
+
+Inner Class - https://docs.oracle.com/javase/tutorial/java/javaOO/innerclasses.html
+
+Comparator  - https://examples.javacodegeeks.com/core-java/util/comparator/java-comparator-example/
+
+Serialization - https://www.geeksforgeeks.org/serialization-in-java/
+
+Exception handling - https://stackify.com/specify-handle-exceptions-java/
+
+
+
+Exercises  to work upon
+Collections
+
+Implement Map in java
+Convert list to map in java
+Remove an entry in list and map
+
+
+Inner Class
+
+Create a inner class and access that class from parent class
+
+
+Interface and Abstract class
+Write a working example on interface and abstract classes
+
+
+
+Write a program which will create a database and which will allow a user to add / remove / update person objects via multiple programs
+ 
